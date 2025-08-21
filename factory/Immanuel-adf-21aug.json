@@ -1,0 +1,9 @@
+{
+	"name": "Immanuel-adf-21aug",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9b918ca0-72e9-414c-9779-e42897fa9377",
+		"tenantId": "38d6d9fb-c85b-479a-a64a-3657ea5facb3"
+	}
+}
